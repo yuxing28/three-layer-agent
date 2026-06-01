@@ -126,7 +126,7 @@ three-layer-agent/
 
 ## Version
 
-0.1.0 — Beta. Framework complete, seeking real-world user feedback.
+0.1.1 — Stress-tested with Superpowers TDD methodology. Strengthened MVP逆向原则, 5 Why attribution rules, and Step 0 questioning protocol.
 
 ## License
 
