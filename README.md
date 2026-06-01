@@ -40,7 +40,7 @@ xcopy three-layer-agent %USERPROFILE%\.claude\skills\three-layer-agent\ /E /I
 ### Option 2: Clone & Link
 
 ```bash
-git clone https://github.com/yuxing28/three-layer-agent.git
+git clone https://github.com/<your-username>/three-layer-agent.git
 ln -s $(pwd)/three-layer-agent ~/.claude/skills/three-layer-agent
 ```
 
@@ -126,7 +126,7 @@ three-layer-agent/
 
 ## Version
 
-0.1.2 — Synced all reference files with SKILL.md v0.1.1 rules. Fixed 5 Why human-attribution example in diagnosis-mode.md, aligned data annotation system across all files, added industry adaptation to experience-layer-prompt.md, strengthened consistency-check-prompt.md with fear-proof and positive-evidence rules.
+0.1.3 — Deep cross-file consistency audit. Added 📋数据说明 sections to output-format.md (3 missing locations) and logic-layer-prompt.md output template. Migrated last ⚠️待验证 remnants in logic-layer-prompt.md to 📊/🧮/💡 system. Added 行业适配指引 and brief mode output template to conversion-layer-prompt.md, aligned 5-question table with SKILL.md format. Added brief mode output template to consistency-check-prompt.md.
 
 ## License
 

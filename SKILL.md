@@ -1,6 +1,6 @@
 ---
 name: three-layer-agent
-version: 0.1.2
+version: 0.1.3
 description: >
   Use this skill when the user asks to "analyze this idea", "help me validate a startup idea",
   "diagnose my business problem", or uses trigger phrases like /three-layer, /三层思维, /创业分析,
