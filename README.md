@@ -7,11 +7,11 @@
 Three-Layer Thinking is a methodology for analyzing business problems through three interconnected layers:
 
 ```
-Logic Layer      (想通价值体现) — Is the value proposition sound?
+Logic Layer   (想通价值体现) — Is the value proposition sound?
     ↓
 Conversion Layer (系统产出实现) — Can we produce and deliver that value?
     ↓
-Experience Layer (用户端产出)   — Does the user actually feel that value?
+Experience Layer (用户端产出) — Does the user actually feel that value?
 ```
 
 This skill turns that methodology into a structured Claude Code agent that guides you through the analysis step by step.
@@ -126,7 +126,7 @@ three-layer-agent/
 
 ## Version
 
-0.1.1 — Stress-tested with Superpowers TDD methodology. Strengthened MVP逆向原则, 5 Why attribution rules, and Step 0 questioning protocol.
+0.1.2 — Synced all reference files with SKILL.md v0.1.1 rules. Fixed 5 Why human-attribution example in diagnosis-mode.md, aligned data annotation system across all files, added industry adaptation to experience-layer-prompt.md, strengthened consistency-check-prompt.md with fear-proof and positive-evidence rules.
 
 ## License
 
