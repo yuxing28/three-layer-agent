@@ -126,7 +126,7 @@ three-layer-agent/
 
 ## Version
 
-0.1.3 — Deep cross-file consistency audit. Added 📋数据说明 sections to output-format.md (3 missing locations) and logic-layer-prompt.md output template. Migrated last ⚠️待验证 remnants in logic-layer-prompt.md to 📊/🧮/💡 system. Added 行业适配指引 and brief mode output template to conversion-layer-prompt.md, aligned 5-question table with SKILL.md format. Added brief mode output template to consistency-check-prompt.md.
+0.1.4 — Closed last 2 brief-mode template gaps: added 摘要模式输出 section to experience-layer-prompt.md and all diagnosis-mode.md steps (Step 1–5 + Step 4.5). All 6 reference files now have both brief and full output templates, fully aligned with SKILL.md.
 
 ## License
 
